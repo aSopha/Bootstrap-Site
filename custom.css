@@ -28,6 +28,16 @@
     padding-left: 1em;
     padding-right: 1em;
 }
+
+.project-card {
+    width: 100%;
+}
+
+a {
+    color: #CA0000;
+}
+
+
 .navbar {
   background-color: #006600;
 }
