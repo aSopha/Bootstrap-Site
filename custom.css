@@ -21,6 +21,10 @@
     display: inline;
 }
 
+.col-md-4 {
+    border-style: inset;
+
+}
 .iconbar {
     position: fixed;
     bottom: 0px;
